@@ -16,7 +16,7 @@
 - 🧠 머신러닝·딥러닝과 백엔드 개발에 관심이 많습니다. · Interested in machine learning, deep learning, and backend development.
 - 🌱 새로운 모델과 기술을 익히고 직접 만들어보는 걸 좋아합니다. · I enjoy learning new models and building things hands-on.
 - 💬 AI · Python · Java/Spring 이야기를 나눠요. · Happy to talk about AI, Python, and Java/Spring.
-- 📫 Reach me: [GitHub @alsrjs951](https://github.com/alsrjs951) <!-- 이메일/링크드인 등을 추가하려면 여기에 적어주세요 -->
+- 📫 Reach me · 연락처: [![Gmail](https://img.shields.io/badge/mingun56@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mingun56@gmail.com) [![GitHub](https://img.shields.io/badge/@alsrjs951-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alsrjs951)
 
 <br/>
 
