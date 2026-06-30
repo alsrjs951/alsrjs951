@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,100:FF79C6&height=200&section=header&text=alsrjs951&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer&descAlignY=58&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BD93F9,100:FF79C6&height=200&section=header&text=Mingeon%20Lee&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer&descAlignY=58&descSize=18" alt="header" />
 
 <a href="https://github.com/alsrjs951">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&height=55&lines=Hi+there%2C+I'm+an+AI+Engineer+%F0%9F%91%8B;Turning+data+into+intelligence;Java+%7C+Python+%7C+C%2FC%2B%2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&height=55&lines=Hi+there+%F0%9F%91%8B+I'm+an+AI+Engineer;Machine+Learning+%26+Backend;Java+%7C+Python+%7C+C+%2F+C%2B%2B" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,10 +12,10 @@
 
 ## 👋 About Me · 소개
 
-- 🤖 지능형 시스템을 만드는 **AI Engineer** 입니다. · An **AI Engineer** building intelligent systems.
-- 🧠 머신러닝과 딥러닝, 그리고 견고한 백엔드에 관심이 많습니다. · Passionate about machine learning, deep learning, and solid backend engineering.
-- 🌱 새로운 모델과 아키텍처를 꾸준히 공부하고 실험합니다. · Always learning and experimenting with new models and architectures.
-- 💬 AI · Python · Java/Spring 관련 이야기를 나눠요! · Ask me about AI, Python, and Java/Spring.
+- 👋 안녕하세요, AI Engineer **이민건 (Mingeon Lee)** 입니다. · Hi, I'm Mingeon Lee, an AI Engineer.
+- 🧠 머신러닝·딥러닝과 백엔드 개발에 관심이 많습니다. · Interested in machine learning, deep learning, and backend development.
+- 🌱 새로운 모델과 기술을 익히고 직접 만들어보는 걸 좋아합니다. · I enjoy learning new models and building things hands-on.
+- 💬 AI · Python · Java/Spring 이야기를 나눠요. · Happy to talk about AI, Python, and Java/Spring.
 - 📫 Reach me: [GitHub @alsrjs951](https://github.com/alsrjs951) <!-- 이메일/링크드인 등을 추가하려면 여기에 적어주세요 -->
 
 <br/>
@@ -59,12 +59,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alsrjs951&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsrjs951&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsrjs951&theme=dracula&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alsrjs951&bg_color=282A36&color=F8F8F2&line=BD93F9&point=FF79C6&area=true&area_color=BD93F9&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 
 </div>
 
